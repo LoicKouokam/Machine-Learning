@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine learning algorithm implementation.
+Machine learning algorithms implementation.
